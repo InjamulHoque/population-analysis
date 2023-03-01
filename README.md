@@ -33,7 +33,7 @@ This is a simple excel data analysis project which is made for practicing purpos
  - Average income
  - Average value of a car
  - Number of persons with debts higher than X
- - Number of persons that have more than x% left on their mortage
+ - Number of persons that have more than x% left on their mortgage
 
 #Advanced:
  - Average income per territory
